@@ -1,0 +1,26 @@
+.MPContainer {
+
+    display: flex;
+    height: 100%;
+    width : 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.song-image{
+
+    height: 300px;
+    width: 300px;
+    border-radius: 20%;
+
+}
+
+.song-artist{
+
+    font-size: 14px;
+    font-weight: normal;
+    margin-top: 35px;
+
+}
